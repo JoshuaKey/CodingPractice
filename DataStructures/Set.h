@@ -2,7 +2,8 @@
 
 namespace DS
 {
-	class Queue
+	template<typename T>
+	class Set
 	{
 	};
 }
