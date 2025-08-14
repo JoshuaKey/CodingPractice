@@ -4,7 +4,10 @@ namespace DS
 {
 	void DepthFirstSearch();
 	void BreadthFirstSearch();
+	void BidirectionalSearch();
+	void FlowChart();
 	void FloodFill();
+	void MapReduce();
 
 	void Dijikstras();
 	void AStar();
@@ -12,7 +15,6 @@ namespace DS
 	void MergeSort();
 	void QuickSort();
 	void InsertionSort();
-	void BubbleSort();
 	void RadixSort();
 
 	void BinarySearch();
