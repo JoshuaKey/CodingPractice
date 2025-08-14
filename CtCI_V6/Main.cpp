@@ -3,7 +3,6 @@
 int main()
 {
 
-
 	int i = 0;
 	std::cin >> i;
 
