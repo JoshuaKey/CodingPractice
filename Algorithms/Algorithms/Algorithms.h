@@ -18,4 +18,6 @@ namespace DS
 	void RadixSort();
 
 	void BinarySearch();
+
+	void badMethod();
 }
