@@ -27,5 +27,3 @@ namespace DS
 		T m_data[N];
 	};
 }
-
-// Hi Bye!!!
