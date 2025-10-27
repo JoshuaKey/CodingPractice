@@ -22,7 +22,7 @@ namespace DS
 		BaseString<T>& append(BaseString<T> const & string);
 		BaseString<T>& operator+=(BaseString<T> const& string);
 
-		BaseString<T> operator+(T args...);
+		//BaseString<T> operator+(T args...);
 		BaseString<T> operator+(T const* arg);
 		BaseString<T> operator+(BaseString<T> const& string);
 

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClInclude Include="Headers\Algorithms\Algorithms.h" />
+    <ClInclude Include="Headers\DataStructures\Array.h" />
+    <ClInclude Include="Headers\DataStructures\BinaryTree.h" />
+    <ClInclude Include="Headers\DataStructures\Dequeue.h" />
+    <ClInclude Include="Headers\DataStructures\DynamicArray.h" />
+    <ClInclude Include="Headers\DataStructures\Graph.h" />
+    <ClInclude Include="Headers\DataStructures\HashTable.h" />
+    <ClInclude Include="Headers\DataStructures\Heap.h" />
+    <ClInclude Include="Headers\DataStructures\List.h" />
+    <ClInclude Include="Headers\DataStructures\Map.h" />
+    <ClInclude Include="Headers\DataStructures\Pair.h" />
+    <ClInclude Include="Headers\DataStructures\Queue.h" />
+    <ClInclude Include="Headers\DataStructures\Set.h" />
+    <ClInclude Include="Headers\DataStructures\Stack.h" />
+    <ClInclude Include="Headers\DataStructures\String.h" />
+    <ClInclude Include="Headers\DataStructures\Tuple.h" />
+    <ClInclude Include="Headers\Math\VectorMath.h" />
+    <ClInclude Include="Headers\Math\Vector.h" />
+    <ClInclude Include="Headers\Graph\Node.h" />
+    <ClInclude Include="Headers\Algorithms\ShortestPath.h" />
+    <ClInclude Include="Headers\Algorithms\Search.h" />
+    <ClInclude Include="Headers\Algorithms\Traverse.h" />
+    <ClInclude Include="Headers\Algorithms\Sort.h" />
+    <ClInclude Include="Headers\Profiling\Benchmark.h" />
+    <ClInclude Include="Headers\Utility\Hash.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Source\Algorithms\Algorithms.cpp" />
+    <ClCompile Include="Source\Math\VectorMath.cpp" />
+    <ClCompile Include="Source\Math\Vector.cpp" />
+    <ClCompile Include="Source\Graph\Node.cpp" />
+    <ClCompile Include="Source\Algorithms\Traverse.cpp" />
+    <ClCompile Include="Source\Algorithms\ShortestPath.cpp" />
+    <ClCompile Include="Source\Algorithms\Search.cpp" />
+  </ItemGroup>
+</Project>

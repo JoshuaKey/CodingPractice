@@ -3,8 +3,8 @@
 int main()
 {
 
-	int i = 0;
-	std::cin >> i;
+	int x;
+	std::cin >> x;
 
 	return 0;
 }
